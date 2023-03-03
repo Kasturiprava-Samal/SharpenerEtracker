@@ -1,0 +1,31 @@
+#Input1{
+    /* color: red; */
+    background-color: rgb(202, 224, 240);
+    border: 2px solid blue;
+    width: 170px;
+    height: 30px;
+    border-radius: 5px;
+}
+#Input2{
+    /* color: red; */
+    background-color: rgb(202, 224, 240);
+    border: 2px solid blue;
+    width: 170px;
+    height: 30px;
+    border-radius: 5px;
+}
+.option{
+    background-color: rgb(202, 224, 240);
+    border: 2px solid blue;
+    width: 170px;
+    height: 30px;
+    border-radius: 5px;
+}
+#btn-add{
+    background-color: rgb(202, 224, 240);
+    border: 2px solid blue;
+    width: 120px;
+    height: 30px;
+    border-radius: 12px;
+    cursor: pointer;
+}
